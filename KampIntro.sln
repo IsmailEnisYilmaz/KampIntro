@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32126.315
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{580B29C7-3E0B-4A00-A78A-5366DD4CA048}"
 EndProject
@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{1011D7D3-8B29-4A90-8F67-8C0280115032}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matemarik\Matematik.csproj", "{C62F5460-57CD-41F4-A362-0A13177868A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matemarik\Matematik.csproj", "{C62F5460-57CD-41F4-A362-0A13177868A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{A3EC7CFF-1670-46E4-AE26-2D970075DE84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{A3EC7CFF-1670-46E4-AE26-2D970075DE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{7B9EFA5C-4FB2-46BB-9126-7D6281934A63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A3EC7CFF-1670-46E4-AE26-2D970075DE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3EC7CFF-1670-46E4-AE26-2D970075DE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3EC7CFF-1670-46E4-AE26-2D970075DE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9EFA5C-4FB2-46BB-9126-7D6281934A63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9EFA5C-4FB2-46BB-9126-7D6281934A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9EFA5C-4FB2-46BB-9126-7D6281934A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9EFA5C-4FB2-46BB-9126-7D6281934A63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
