@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericMyDictionary4.GunOde
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{B479557F-2A0F-4604-81B4-D58A533B689D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{FF61F0C0-437B-4832-9210-5DE63C5A2AEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{FF61F0C0-437B-4832-9210-5DE63C5A2AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunYonetimSistemi_5.GunOdev", "OyunYonetimSistemi_5.GunOdev\OyunYonetimSistemi_5.GunOdev.csproj", "{740AFEA7-48D7-496F-8B6C-80D16E33D732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{FF61F0C0-437B-4832-9210-5DE63C5A2AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF61F0C0-437B-4832-9210-5DE63C5A2AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF61F0C0-437B-4832-9210-5DE63C5A2AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
