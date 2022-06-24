@@ -38,3 +38,11 @@ Select * from Products p inner join [Order Details] od
 on p.ProductID = od.ProductID
 inner join Orders o
 on o.OrderID=od.OrderID
+
+--6.GunOdev
+Select p.ProductName  UrunAdi, sum(od.UnitPrice * od.Quantity) KazanilanToplamMiktar from
+[Order Details] od inner join Products p 
+on od.ProductID = p.ProductID
+inner join Orders o 
+on o.OrderID = od.OrderID
+group by p.ProductName
