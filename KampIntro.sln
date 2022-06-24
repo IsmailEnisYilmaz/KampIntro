@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{FF61F0C0-437B-4832-9210-5DE63C5A2AEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunYonetimSistemi_5.GunOdev", "OyunYonetimSistemi_5.GunOdev\OyunYonetimSistemi_5.GunOdev.csproj", "{740AFEA7-48D7-496F-8B6C-80D16E33D732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OyunYonetimSistemi_5.GunOdev", "OyunYonetimSistemi_5.GunOdev\OyunYonetimSistemi_5.GunOdev.csproj", "{740AFEA7-48D7-496F-8B6C-80D16E33D732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OyunYonetimSistemi_5.GunOdev_GameProject_DogruCozum", "OyunYonetimSistemi_5.GunOdev_GameProject_DogruCozum\OyunYonetimSistemi_5.GunOdev_GameProject_DogruCozum.csproj", "{1408B72A-CF17-4655-B9A5-0B61DD69D93C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{740AFEA7-48D7-496F-8B6C-80D16E33D732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1408B72A-CF17-4655-B9A5-0B61DD69D93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1408B72A-CF17-4655-B9A5-0B61DD69D93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1408B72A-CF17-4655-B9A5-0B61DD69D93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1408B72A-CF17-4655-B9A5-0B61DD69D93C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

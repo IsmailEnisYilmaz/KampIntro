@@ -10,7 +10,7 @@ namespace OyunYonetimSistemi_5.GunOdev.Concrete
     {
         public void Sale(Campaign campaign, Gamer gamer)
         {
-            Console.WriteLine(gamer.GamerFirstName + " adlı oyuncuya " + (campaign.CampaignGame).GameName + " adlı oyun " + (campaign.CampaignGame).GamePrice + "TL ücretle satılmıştır. ");
+            Console.WriteLine(gamer.GamerFirstName + " adlı oyuncuya " + (campaign.CampaignGame).GameName + " adlı oyun " + (campaign.CampaignGame).GamePrice + "TL ücretle satılmıştır. " + campaign.CampaignName + " kampanyası uygulanmıştır");
         }
     }
 }
